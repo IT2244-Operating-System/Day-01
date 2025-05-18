@@ -9,14 +9,18 @@
 
 ## DateTime.bat
 ## Notes
-Display Current Date and Time
-This simple batch script displays the current system date and time when executed.
-![Screenshot (17)](https://github.com/user-attachments/assets/66f581c6-2850-47c4-b0dd-e99d71244409)
+-Display Current Date and Time
+-This simple batch script displays the current system date and time when executed.
+-![Screenshot (17)](https://github.com/user-attachments/assets/66f581c6-2850-47c4-b0dd-e99d71244409)
 
 ## UserName.bat
 
 ## Notes
 -Display Username and Windows Version
 -This batch script displays the current user's username and the Windows operating system version.
-![Screenshot (18)](https://github.com/user-attachments/assets/bd2eda74-921d-48ca-a341-7b7f4abfba8b)
+-![Screenshot (18)](https://github.com/user-attachments/assets/bd2eda74-921d-48ca-a341-7b7f4abfba8b)
 
+##Commands.txt
+-This code about the linux Commands
+-![Screenshot (18)](https://github.com/user-attachments/assets/07867639-9f02-45c5-beb7-e74b44bb821a)
+-![Screenshot (19)](https://github.com/user-attachments/assets/024c2af5-89f9-4a85-b2cb-b06eddeed3b8)
