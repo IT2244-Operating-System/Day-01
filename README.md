@@ -23,4 +23,5 @@
 ##Commands.txt
 -This code about the linux Commands
 -![Capture](https://github.com/user-attachments/assets/f58566d3-6c79-4bee-9393-993d3def2e05)
+
 -![Screenshot (19)](https://github.com/user-attachments/assets/024c2af5-89f9-4a85-b2cb-b06eddeed3b8)
